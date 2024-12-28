@@ -1,0 +1,20 @@
+[
+  {
+    "title": "cve records",
+    "url": "https://www.cve.org/CVERecord/SearchResults?",
+    "parameters": {
+      "vendor": null,
+      "product": "query",
+      "version": null
+    }
+  },
+  {
+    "title": "cve details",
+    "url": "https://www.cvedetails.com/vulnerability-list.php?",
+    "parameters": {
+      "vendor": "vendor",
+      "product": "product",
+      "version": "version"
+    }
+  }
+]

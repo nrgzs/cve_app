@@ -1,0 +1,618 @@
+[
+  {
+    "cve": "CVE-2024-1234",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Qradar Security Information And Event Manager &"
+  },
+  {
+    "cve": "CVE-2013-2970",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Qradar Security Information And Event Manager &"
+  },
+  {
+    "cve": "CVE-2024-42333",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-42332",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-42331",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-42330",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-42329",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-42328",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-42327",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-42326",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-36468",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-36467",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-36466",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-36464",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-36463",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-36462",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-36461",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-36460",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-22123",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-22122",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-22121",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-22120",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-22119",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-22117",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-22116",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-22114",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2023-32728",
+    "appProduct": "Zabbix",
+    "cpe_name": "cpe:2.3:a:zabbix:zabbix:1.1.4:*:*:*:*:*:*:*",
+    "vendor": "Zabbix",
+    "version": "5.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Zabbix&"
+  },
+  {
+    "cve": "CVE-2024-9474",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2024-9466",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2024-8688",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2024-8686",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2024-5919",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2024-3400",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2024-3393",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2024-3385",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2024-3384",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2024-3382",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2024-2552",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2024-2551",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2024-2550",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2024-0012",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2023-6795",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2023-6794",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2023-6793",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2023-6792",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2023-0008",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2022-0030",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2022-0028",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2022-0023",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2021-3055",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2021-3053",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2020-2035",
+    "appProduct": "Palo Alto Firewall",
+    "cpe_name": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.16:*:*:*:*:*:*:*",
+    "vendor": "Palo Alto Networks",
+    "version": "10.0",
+    "url": "https://www.cve.org/CVERecord/SearchResults?query=Palo Alto Firewall&"
+  },
+  {
+    "cve": "CVE-2024-56732",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56708",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56707",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56706",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56705",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56704",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56703",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56702",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56701",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56700",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56699",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56698",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56697",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56696",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56695",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56694",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56693",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56692",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56691",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56690",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56689",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56688",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56687",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56686",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  },
+  {
+    "cve": "CVE-2024-56685",
+    "appProduct": "Qradar Security Information And Event Manager ",
+    "cpe_name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+    "vendor": "IBM",
+    "version": 7.5,
+    "url": "https://www.cvedetails.com/vulnerability-list.php?vendor=IBM&product=Qradar Security Information And Event Manager &version=7.5&"
+  }
+]
